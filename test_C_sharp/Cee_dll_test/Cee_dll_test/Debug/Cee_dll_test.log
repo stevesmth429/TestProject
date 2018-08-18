@@ -1,0 +1,6 @@
+﻿  MathFunctions.cpp
+  main.cpp
+  Generating Code...
+e:\programmingprojects\projectsvs_csharp\test_c_sharp\cee_dll_test\cee_dll_test\mathfunctions.cpp(23): warning C4715: 'MyMathFuncs::Divide': not all control paths return a value
+  Cee_dll_test.vcxproj -> E:\ProgrammingProjects\ProjectsVS_cSharp\test_C_sharp\Cee_dll_test\Debug\Cee_dll_test.exe
+  Cee_dll_test.vcxproj -> E:\ProgrammingProjects\ProjectsVS_cSharp\test_C_sharp\Cee_dll_test\Debug\Cee_dll_test.pdb (Full PDB)

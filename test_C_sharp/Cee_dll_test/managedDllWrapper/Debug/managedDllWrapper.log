@@ -1,0 +1,9 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  managedDllWrapper.cpp
+  Generating Code...
+e:\programmingprojects\projectsvs_csharp\test_c_sharp\cee_dll_test\cee_dll_test\mathfunctions.cpp(23): warning C4715: 'MyMathFuncs::Divide': not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  managedDllWrapper.vcxproj -> E:\ProgrammingProjects\ProjectsVS_cSharp\test_C_sharp\Cee_dll_test\Debug\managedDllWrapper.dll
+  managedDllWrapper.vcxproj -> E:\ProgrammingProjects\ProjectsVS_cSharp\test_C_sharp\Cee_dll_test\Debug\managedDllWrapper.pdb (Partial PDB)
